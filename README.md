@@ -36,5 +36,5 @@ I’m open to feedback and suggestions on how I can improve this dashboard furth
 #PowerBI #DataAnalytics #DataAnalyst #PowerBIDashboard #DAX #PowerQuery #BusinessIntelligence #DataVisualization #Analytics #MicrosoftPowerBI #Learning #Project
 
 Screenshots / Demos
-Show what the dashboard looks like -
+Show what the dashboard looks like -https://github.com/ganeshgorelu/PhonePe/blob/main/Phone%20Pay%20Project.pbit
 Example - 
