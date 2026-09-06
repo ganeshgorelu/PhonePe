@@ -1,7 +1,7 @@
 # PhonePe
 🚀 Power BI Project | PhonePe Transaction & Business Analytics Dashboard 📊
 
-I’m excited to share my latest Power BI Data Analytics project, where I built an interactive dashboard to analyze PhonePe transaction data and extract meaningful business insights.
+I’m excited to share my 1st Power BI Data Analytics project, where I built an interactive dashboard to analyze PhonePe transaction data and extract meaningful business insights.
 
 🔍 Project Objective:
 To transform raw transaction data into an interactive dashboard that helps understand transaction trends, user behavior, payment performance, and overall business growth.
