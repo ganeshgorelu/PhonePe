@@ -34,3 +34,6 @@ To continue building real-world Data Analytics projects and strengthen my skills
 I’m open to feedback and suggestions on how I can improve this dashboard further. 🙌
 
 #PowerBI #DataAnalytics #DataAnalyst #PowerBIDashboard #DAX #PowerQuery #BusinessIntelligence #DataVisualization #Analytics #MicrosoftPowerBI #Learning #Project
+
+Screenshots / Demos
+Example - 
